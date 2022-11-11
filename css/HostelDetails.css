@@ -1,0 +1,194 @@
+.navbar-brand{
+    margin-left: 1.5rem;
+    font-size: 1.5rem;
+  }
+.nav-link{
+    margin-left: 1.5rem;
+    font-size: 1.5rem;
+    float: left;
+  }
+
+.navbar-top{
+    background-color: #002060;
+    position: sticky;
+  }
+
+.navbar-top a{
+    color: #fff;
+}
+
+.float_right{
+    float: right;
+}
+
+.float_left{
+    float: left;
+}
+
+.logo{
+    align-items: center;
+    text-align: center;
+    color: bisque;
+}
+
+.display_image{
+    padding: 5px;
+}
+
+.hostel_name{
+    font-size: 2.5rem;
+    font-weight: 900;
+    padding: 10px 0px 5px 0px;
+    /* display: inline; */
+    margin-top: 6px;
+}
+
+.hostel_address{
+    color: #999999;
+}
+.rating{
+    /* display: inline; */
+    padding: 25px 0px 5px 20px;
+    /* margin-top: 6px; */
+    position: relative;
+    top: 25px;
+}
+
+.rating img{
+    width: 23px;
+}
+
+.container{
+    padding-top: 50px;
+}
+
+.heading_2{
+    font-size: 30px;
+    font-weight: 700;
+    margin-top: 10px;
+}
+
+.price_structure{
+    margin-top: 150px;
+    background-color: #002060;
+    height: 800px;
+}
+
+.heading_3{
+    font-size: 3rem;
+    font-weight: 700;
+    color: #fff;
+    text-align: center;
+    padding-top: 120px;
+}
+
+.heading_4{
+    font-size: 3rem;
+    font-weight: 700;
+    color: #002060;
+    text-align: center;
+    padding-top: 120px;
+}
+.cards{
+    padding: 25px;
+    /* margin: 25px; */
+}
+
+.card{
+    box-shadow: -1px 14px 32px -10px #13151a;
+}
+
+/* 
+landing page css */
+
+.tagline_text{
+    color: #021539;
+    text-align: center;
+}
+
+.tagline{
+    text-align: center;
+    padding: 20px;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+.view_details{
+    background-color: #002060;
+    color: white;
+    width: 150px;
+    height: 50px;
+    border: 0pt;
+    border-radius: 5px;
+    text-align: center;
+    margin-top: 4.8rem;
+}
+
+.view_details p{
+    position: relative;
+    top: 10px;
+}
+
+.card-body a {
+    text-decoration: none;
+    
+    color: #fff;
+    font-size: 20px;
+}
+
+.why_us_structure{
+    margin-top: 150px;
+    background-color: #002060;
+    height: 1000px;
+}
+
+.socials{
+    text-align: center;
+    padding: 30px;
+}
+
+.display_block{
+    display: inline;
+}
+
+.copyright{
+    text-align: center;
+    padding: 50px 0px 30px 0px;
+}
+
+#about-us{
+    position: relative;
+    background-color:white;
+    border-radius: 2rem;
+}
+.about{
+    background-color: #002060;
+    padding:4rem
+}
+
+
+
+.view_details1{
+    text-decoration: none;
+    position: relative;
+    align-items: center;
+    background-color: #002060;
+    color: white;
+    width: 170px;
+    height: 50px;
+    border: 0pt;
+    border-radius: 5px;
+    left: 43%;
+    box-shadow: -1px 13px 22px -15px #27292c;
+}
+
+.view_details1 p{
+    position: relative;
+    top: 10px;
+}
+
+.tagline a{
+    position: relative;
+    top: 10px;
+    text-decoration: none;
+}
